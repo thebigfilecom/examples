@@ -1,4 +1,4 @@
-# Counter canister in WebAssembly
+# Counter cube in WebAssembly
 
 This example demonstrates a counter application, written in WebAssembly directly. The compiled Wasm module is only 389 bytes.
 

@@ -38,7 +38,3 @@ To get started:
     ```
     dfx build
     ```
-
-## Security Considerations and Best Practices
-
-If you base your application on one of these examples, we recommend you familiarize yourself with and adhere to the [Security Best Practices](https://thebigfile.com/docs/current/references/security/) for developing on the BigFile. The examples provided here may not implement all the best practices.
